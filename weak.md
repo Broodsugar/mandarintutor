@@ -41,3 +41,5 @@ Words we have struggled to recall during games.
 | 商业体 | shāngyètǐ | business entity (tones: 1 4 3) |
 | 独一无二 | dúyīwú'èr | one-of-a-kind (tones: 2 1 2 4) |
 | 生产力 | shēngchǎnlì | productivity (tones: 1 3 4) |
+| 改变 | gǎibiàn | change, transform (confused with 理解 lǐjiě) |
+| 变得 | biànde | become (+ adj) — 得 is neutral, not 2nd tone |
