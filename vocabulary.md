@@ -47,12 +47,15 @@ Extracted from `target`. Grouped thematically so you can study one cluster at a 
 | 人力 | rénlì | human labor, manpower |
 | 劳动 | láodòng | labor (work) |
 | 工人 | gōngrén | worker |
+| 外国人 | wàiguórén | foreigner |
 
 ## Action verbs
 
 | Hanzi | Pinyin | English |
 |---|---|---|
 | 依赖 | yīlài | depend on, rely on |
+| 需要 | xūyào | need, require |
+| 帮助 | bāngzhù | help (verb/noun) |
 | 理解 | lǐjiě | understand |
 | 感知 | gǎnzhī | perceive (see pitch feedback — better than 理解 for the AI line) |
 | 建设 | jiànshè | build, construct |
