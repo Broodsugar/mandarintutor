@@ -1,10 +1,10 @@
 ## The Flash card game:
 
-The flash card game has three modes:
+The flash card game has four modes:
 a) You show me pinyin from @vocabulary.md and I provide the english
 b) You show me english from @vocabulary.md and I provide the pinyin
 c) You show me characters from @vocabulary.md and I provide pinyin and english
-d) You show me the characters + toneless pinyin, and I provide the tones as digits 1–4 in order (e.g. 导航 `daohang` → `3 2`)
+d) You show me the characters + toneless pinyin + **english** (from @vocabulary.md), and I provide the tones as digits 1–4 in order (e.g. 导航 `daohang` — navigate → `3 2`)
 
 ### Grading for mode b (and c)
 
