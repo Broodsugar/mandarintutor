@@ -41,3 +41,8 @@ Words we have struggled to recall during games.
 | 商业体 | shāngyètǐ | business entity (tones: 1 4 3) |
 | 独一无二 | dúyīwú'èr | one-of-a-kind (tones: 2 1 2 4) |
 | 生产力 | shēngchǎnlì | productivity (tones: 1 3 4) |
+| 转化为 | zhuǎnhuà wéi | transform into (tones: 3 4 2; vs 改变 gǎibiàn = change/transform something, tones 3 4) |
+| 证明 | zhèngmíng | prove, demonstrate (tones: 4 2) |
+| 外国人 | wàiguórén | foreigner (tones: 4 2 2; colloquial 老外 lǎowài = foreigner, informal) |
+| 帮助 | bāngzhù | help (tones: 1 4; vs 辅助 fǔzhù = assist/supplement, tones 3 4) |
+| 产品 | chǎnpǐn | product (tones: 3 3) |

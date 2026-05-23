@@ -14,6 +14,13 @@ d) You show me the characters + toneless pinyin + **english** (from @vocabulary.
 
 When correcting a wrong answer, also use the word in a short example sentence (hanzi + pinyin + english).
 
+### Grading for mode d
+
+Mode **d** already gives **toneless syllables** (and hanzi + English), so the tested skill is **tones only**. Do **not** reuse “half credit” from mode **b/c** here: getting syllables right is not extra credit — they were supplied.
+
+- **Full credit** → every syllable’s tone correct (including neutral tones where applicable, e.g. **变得** *biàn·de*).
+- **Tone miss** → any wrong or missing tone → **do not promote**; stay in the current box; increment **misses** for tracking; do **not** reset to box 1 (that penalty is for **wrong word** in b/c).
+
 ## Learn characters (mode f)
 
 Pick 10 characters from @vocabulary.md. Introduce them one by one: decompose each into radicals/parts, give a mnemonic, then drill. After the 10 are introduced, cycle back through for recall practice (show hanzi, ask pinyin + meaning).
