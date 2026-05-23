@@ -1,10 +1,10 @@
 ## The Flash card game:
 
-The flash card game has three modes:
+The flash card game has four modes:
 a) You show me pinyin from @vocabulary.md and I provide the english
 b) You show me english from @vocabulary.md and I provide the pinyin
 c) You show me characters from @vocabulary.md and I provide pinyin and english
-d) You show me the characters + toneless pinyin, and I provide the tones as digits 1–4 in order (e.g. 导航 `daohang` → `3 2`)
+d) You show me the characters + toneless pinyin + **english** (from @vocabulary.md), and I provide the tones as digits 1–4 in order (e.g. 导航 `daohang` — navigate → `3 2`)
 
 ### Grading for mode b (and c)
 
@@ -13,6 +13,13 @@ d) You show me the characters + toneless pinyin, and I provide the tones as digi
 - **Miss** (wrong word) → reset to box 1, due tomorrow.
 
 When correcting a wrong answer, also use the word in a short example sentence (hanzi + pinyin + english).
+
+### Grading for mode d
+
+Mode **d** already gives **toneless syllables** (and hanzi + English), so the tested skill is **tones only**. Do **not** reuse “half credit” from mode **b/c** here: getting syllables right is not extra credit — they were supplied.
+
+- **Full credit** → every syllable’s tone correct (including neutral tones where applicable, e.g. **变得** *biàn·de*).
+- **Tone miss** → any wrong or missing tone → **do not promote**; stay in the current box; increment **misses** for tracking; do **not** reset to box 1 (that penalty is for **wrong word** in b/c).
 
 ## Learn characters (mode f)
 
