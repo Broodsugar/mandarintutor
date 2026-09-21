@@ -10,6 +10,10 @@ Extracted from `target`. Grouped thematically so you can study one cluster at a 
 | 经济 | jīngjì | economy |
 | 商业体 | shāngyètǐ | business entity |
 | 平台 | píngtái | platform |
+| 支持 | zhīchí | support |
+| 第三方 | dìsānfāng | third party |
+| 第三方 | dìsānfāng | third party |
+| 应用 | yìngyòng | application (app) |
 | 业务 | yèwù | business operations |
 | 收入 | shōurù | revenue, income |
 | 美元 | měiyuán | US dollar |
@@ -31,6 +35,7 @@ Extracted from `target`. Grouped thematically so you can study one cluster at a 
 | 助理 | zhùlǐ | assistant |
 | 硬件 | yìngjiàn | hardware |
 | 软件 | ruǎnjiàn | software |
+| 应用 | yìngyòng | application (app) |
 | 生产力 | shēngchǎnlì | productivity |
 
 ## Physical world & space
@@ -68,6 +73,7 @@ Extracted from `target`. Grouped thematically so you can study one cluster at a 
 | 准备 | zhǔnbèi | prepare |
 | 投入 | tóurù | put into, deploy |
 | 使用 | shǐyòng | use |
+| 支持 | zhīchí | support |
 | 扩展 | kuòzhǎn | expand |
 | 填补 | tiánbǔ | fill (a gap) |
 | 转化为 | zhuǎnhuà wéi | transform into |
@@ -160,6 +166,12 @@ Extracted from `target`. Grouped thematically so you can study one cluster at a 
 | 可浏览、可搜索 | kě liúlǎn, kě sōusuǒ | browsable, searchable |
 | 可浏览、可搜索、可导航 | kě liúlǎn, kě sōusuǒ, kě dǎoháng | browsable, searchable, navigable |
 | 数百万美元的收入 | shù bǎi wàn měiyuán de shōurù | several million USD in revenue |
+
+## Example sentences
+
+| Hanzi | Pinyin | English |
+|---|---|---|
+| 这个平台支持第三方应用。 | Zhège píngtái zhīchí dìsānfāng yìngyòng. | This platform supports third-party apps. |
 
 ## Suggested replacements (from pitch feedback)
 
