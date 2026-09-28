@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Shēng · Mandarin practice</title><link rel="stylesheet" href="/style.css"><script type="module" src="/app.js"></script></head>
+<body>
+  <header><a href="/" class="brand"><span class="seal" lang="zh">声</span> shēng<span class="brand-note">MANDARIN PRACTICE</span></a><span class="header-note">A little, every day.</span></header>
+  <main>
+    <div class="eyebrow">YOUR SENTENCE GAME <span>HANZI → ENGLISH</span></div>
+    <div class="title-row"><h1>Listen. Translate.<br><em>Make it yours.</em></h1><div class="session-counter"><strong id="count">01</strong><span id="total"> / …</span><small>sentences this round</small></div></div>
+    <section class="practice" aria-label="Sentence practice">
+      <div class="card-top"><span id="topic">Getting your sentences ready…</span><span class="sound-mark" aria-hidden="true">▂ ▅ ▃ ▇ ▄ ▂</span></div>
+      <p id="sentence-hanzi" class="sentence-hanzi" lang="zh-CN"></p>
+      <div id="sentence" class="sentence" hidden lang="zh-Latn" aria-label="Click a word to hear it"></div>
+      <p class="hint">Hover over a word for pinyin. Click to hear it and see its meaning.</p>
+      <p id="word-meaning" class="word-meaning" role="status" aria-live="polite" hidden></p>
+      <div class="audio-controls"><button id="play" class="dark" disabled>▶ Start & listen</button><button id="stop" class="quiet" disabled>Stop</button><label class="speed-label">Speed <select id="speed"><option value="1">Normal · 1×</option><option value="0.75">Slow · 0.75×</option><option value="0.5">Extra slow · 0.5×</option><option value="0.35" selected>Very slow · 0.35×</option></select></label></div>
+      <div id="audio-status" class="audio-status" role="status" aria-live="polite">Loading audio options…</div>
+      <div class="divider"></div>
+      <form id="translation-form"><label class="answer-label" for="answer">Your English?</label><p id="grammar-hint" class="grammar-hint" hidden></p><textarea id="answer" rows="3" placeholder="What does the sentence mean?" maxlength="2000" required disabled></textarea><div class="submit-row"><span>No rush. Listen as many times as you like.</span><button id="check" class="primary" disabled>Check translation ↗</button></div></form>
+      <section id="feedback" class="feedback" aria-live="polite" hidden><div class="eyebrow" id="feedback-title"></div><p id="reference"></p><p id="hanzi" lang="zh-CN"></p><p id="feedback-note"></p><div id="self-review"><button id="got-it" class="primary">I got the meaning</button><button id="again" class="secondary">Practise this again</button></div><button id="next" class="primary" hidden>Next sentence →</button></section>
+    </section>
+    <div class="below-card"><span id="focus">Built around your vocabulary.</span><label><input type="checkbox" id="autoplay" checked> Read each new sentence aloud twice</label></div>
+    <details><summary>Audio settings & practice notes</summary><label class="voice-label" for="voice">Mandarin voice</label><select id="voice"></select><p>Sentences are spoken as a whole; tapping a word plays its isolated pronunciation. Tones can sound different in context.</p><p>This set contains <span id="bank-size">269</span> sentences covering your vocabulary, without repetitive question-prefix duplicates. Known translations are checked automatically; other wording is yours to compare with the reference. Practice here does not change your tutor’s progress files.</p></details>
+  </main><footer>声 <span>One sentence closer.</span></footer>
+</body></html>
