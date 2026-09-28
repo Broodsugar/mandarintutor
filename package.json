@@ -1,0 +1,7 @@
+{
+  "name": "mandarin-sentence-practice",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node app/server.js", "test": "node --test app/test/*.test.js", "content:build": "python3 scripts/build-sentences.py", "content:check": "node scripts/check-coverage.js --write" },
+  "engines": { "node": ">=20" }
+}
